@@ -1,7 +1,7 @@
 ### Hi there, I'm Vitor 🙃
 
 I'm a software engineer focused on backend and devops and interest in mobile and web development.  
-I'm from São Paulo, Brasil, currently living in **Santiago**, **Chile** and working at Concrete Latinoamérica.  
+I'm from São Paulo, Brasil, currently living in **Santiago**, **Chile**.  
 You can find me on: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US)  
 Pronouns: He/Him
 
