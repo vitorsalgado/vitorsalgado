@@ -7,7 +7,7 @@ Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [E
 ### Things I Code With
 
 - Languages: Java | TypeScript | JavaScript | Golang | Kotlin
-- Some Libs and Frameworks: Spring | Vertx | Resilience4J | React | Fastify | Jest | Gin Gonic | ZeroLog
+- Some Libs and Frameworks: Spring | Vertx | Resilience4J | React | Fastify | Express | Jest | Gin Gonic | ZeroLog
 - Node.js
 - GraphQL
 - Docker | Docker Compose
