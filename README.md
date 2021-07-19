@@ -1,28 +1,37 @@
-### Hi there, I'm Vitor 🙃
+## Hello! Nice to see you here! I'm [Vitor](https://vitorsalgado.github.io/)
 
-I'm a software engineer focused on backend and devops and interest in mobile and web development.  
-I'm from São Paulo, Brasil, currently living in **Santiago**, **Chile**.  
-You can find me on: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US)  
-Pronouns: He/Him
+<a href="https://github.com/vitorsalgado">
+  <img align="left" alt="Github Profile" width="22px" src="assets/github.svg" />
+</a>
+<a href="https://www.npmjs.com/~vitor.salgado">
+  <img align="left" alt="NPM Packages" width="22px" src="assets/npm.svg" />
+</a>
+<a href="https://www.linkedin.com/in/vitorsalgado/">
+  <img align="left" alt="LinkedIn Profile" width="22px" src="assets/linkedin.svg" />
+</a>
+<br />
 
-<!--
-**vitorsalgado/vitorsalgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile!  
+I'm Vitor, Software Engineer from **São Paulo**, **Brasil** 🇧🇷, currently living in **Santiago**, **Chile** 🇨🇱.  
+Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [Email](mailto:vsalgadopb@gmail.com)
 
-Here are some ideas to get you started:
+### Things I Code With
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Java | TypeScript | JavaScript | Golang | Kotlin
+- Some Libs and Frameworks: Spring | Vertx | Resilience4J | React | Fastify | Jest | Gin Gonic | ZeroLog
+- Node.js
+- GraphQL
+- Docker | Docker Compose
+- CI/CD: Jenkins | GitHub Actions | CircleCI | Travis
+- Tools and Databases: MongoDB | Redis | MySQL | ELK
+- Cloud: AWS | Heroku
 
-<!--
-### Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vitorsalgado&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+### Some Stuff I Made
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorsalgado&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
--->
+- [NPM Packages](https://www.npmjs.com/~vitor.salgado)
+- [Visual Studio Code Extensions](https://marketplace.visualstudio.com/search?term=publisher%3A%22Vitor%20Hugo%20Salgado%22&target=VSCode&category=All%20categories&sortBy=Relevance)
+- [Chrome Extensions](https://chrome.google.com/webstore/detail/obhoegnhoffpojcnnkknbiilaphdmeea?authuser=0&hl=en-US)
+
+---
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=vitorsalgado.vitorsalgado&color=00cf00)
