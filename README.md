@@ -1,15 +1,4 @@
-## Hello! Nice to see you here! I'm [Vitor](https://vitorsalgado.github.io/)
-
-<a href="https://github.com/vitorsalgado">
-  <img align="left" alt="Github Profile" width="22px" src="assets/github.svg" />
-</a>
-<a href="https://www.npmjs.com/~vitor.salgado">
-  <img align="left" alt="NPM Packages" width="22px" src="assets/npm.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vitorsalgado/">
-  <img align="left" alt="LinkedIn Profile" width="22px" src="assets/linkedin.svg" />
-</a>
-<br />
+## Hello! Nice to see you here! I'm [Vitor](https://vitorsalgado.github.io/) · <a href="https://github.com/vitorsalgado"><img alt="Github Profile" width="22px" src="assets/github.svg" /></a>&nbsp;&nbsp;<a href="https://www.npmjs.com/~vitor.salgado"><img alt="NPM Packages" width="22px" src="assets/npm.svg" /></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vitorsalgado/"><img alt="LinkedIn Profile" width="22px" src="assets/linkedin.svg" /></a>
 
 Welcome to my profile!  
 I'm Vitor, Software Engineer from **São Paulo**, **Brasil** 🇧🇷, currently living in **Santiago**, **Chile** 🇨🇱.  
