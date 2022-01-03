@@ -16,6 +16,7 @@ Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [E
 ### Things I Code With
 
 ![NodeJS](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js&logoColor=339933)
+![Deno](https://img.shields.io/badge/-Deno-white?style=flat&logo=deno&logoColor=000000)
 ![Go](https://img.shields.io/badge/-Go-white?style=flat&logo=go&logoColor=00ADD8)
 ![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=CB3837)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat&logo=kotlin&logoColor=8052FF)
