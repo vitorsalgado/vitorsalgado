@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorsalgado)
 [![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=CB3837)](https://www.npmjs.com/~vitor.salgado)
-[![Deno](https://img.shields.io/badge/deno-lightgrey?logo=deno&labelColor=black)](https://deno.land/x/drizzle_http)
+[![Deno](https://img.shields.io/badge/Deno-000000?logo=deno&labelColor=black)](https://deno.land/x/drizzle_http)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@vtrsalgado)
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/vitorsalgado)
 [![VSCode Extensions](https://img.shields.io/badge/-VsCode%20Extensions-000000?style=flat&logo=Visual%20Studio%20Code&logoColor=white)](https://marketplace.visualstudio.com/search?term=publisher%3A%22Vitor%20Hugo%20Salgado%22&target=VSCode&category=All%20categories&sortBy=Relevance)
