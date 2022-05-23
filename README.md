@@ -15,22 +15,15 @@ Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [E
 
 ### Things I Code With
 
-![NodeJS](https://img.shields.io/badge/-Node.js-white?style=flat&logo=node.js&logoColor=339933)
-![Deno](https://img.shields.io/badge/-Deno-white?style=flat&logo=deno&logoColor=000000)
-![Go](https://img.shields.io/badge/-Go-white?style=flat&logo=go&logoColor=00ADD8)
-![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=CB3837)
-![Kotlin](https://img.shields.io/badge/-Kotlin-white?style=flat&logo=kotlin&logoColor=8052FF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=000000)
-
-- Languages: Java | TypeScript | JavaScript | Golang | Kotlin
-- Some Libs and Frameworks: Spring | Vertx | Resilience4J | React | Fastify | Express | Jest | Gin Gonic | ZeroLog
-- Node.js
+- Node.js | Deno | JavaScript | TypeScript
+- Go
+- Java | Kotlin
 - GraphQL
-- Docker | Docker Compose
-- CI/CD: Jenkins | GitHub Actions | CircleCI | Travis
-- Tools and Databases: MongoDB | Redis | MySQL | ELK
-- Cloud: AWS | Heroku
+- Docker
+- CI/CD: Jenkins | GitHub Actions | CircleCI | Travis | Azure Pipelines
+- MongoDB | Redis | MySQL | ELK | Kafka
+- AWS | Azure | Heroku
+- Some Libs and Frameworks: Spring | Vertx | Resilience4J | React | Fastify | Express | Jest | Gin Gonic | ZeroLog
 
 ### Some of My Work Published
 
