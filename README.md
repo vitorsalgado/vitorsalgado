@@ -1,4 +1,4 @@
-## Hello! Nice to see you here! I'm [Vitor](https://vitorsalgado.github.io/)
+## Hello! Nice to see you here! I'm [Vitor](https://www.linkedin.com/in/vitorsalgado/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorsalgado)
 [![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=CB3837)](https://www.npmjs.com/~vitor.salgado)
