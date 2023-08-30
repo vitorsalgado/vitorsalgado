@@ -8,7 +8,7 @@
 [![VSCode Extensions](https://img.shields.io/badge/-VsCode%20Extensions-000000?style=flat&logo=Visual%20Studio%20Code&logoColor=white)](https://marketplace.visualstudio.com/search?term=publisher%3A%22Vitor%20Hugo%20Salgado%22&target=VSCode&category=All%20categories&sortBy=Relevance)
 
 Welcome to my profile!  
-I'm Vitor, Software Engineer from **São Paulo**, **Brasil** 🇧🇷, currently living in **Santiago**, **Chile** 🇨🇱.
+I'm Vitor, a Software Engineer from **São Paulo**, **Brasil** 🇧🇷, currently living in **Berlin**, **Germany** 🇩🇪.
 
 Posts: [Medium](https://medium.com/@vtrsalgado)  
 Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [Email](mailto:vsalgadopb@gmail.com)
@@ -23,7 +23,6 @@ Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [E
 - CI/CD: Jenkins | GitHub Actions | CircleCI | Travis | Azure Pipelines
 - MongoDB | Redis | MySQL | ELK | Kafka
 - AWS | Azure | Heroku
-- Some Libs and Frameworks: Spring | Vertx | Resilience4J | React | Fastify | Express | Jest | Gin Gonic | ZeroLog
 
 ### Some of My Work Published
 
@@ -34,3 +33,4 @@ Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [E
 ---
 
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=vitorsalgado.vitorsalgado&color=00cf00)
+
