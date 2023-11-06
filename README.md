@@ -1,4 +1,4 @@
-## Hello! Nice to see you here! I'm [Vitor](https://www.linkedin.com/in/vitorsalgado/)
+## Hello! Nice to see you here!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitorsalgado)
 [![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=npm&logoColor=CB3837)](https://www.npmjs.com/~vitor.salgado)
@@ -13,18 +13,7 @@ I'm Vitor, a Software Engineer from **São Paulo**, **Brasil** 🇧🇷, current
 Posts: [Medium](https://medium.com/@vtrsalgado)  
 Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [Email](mailto:vsalgadopb@gmail.com)
 
-### Things I Code With
-
-- Node.js | Deno | JavaScript | TypeScript
-- Go
-- Java | Kotlin
-- GraphQL
-- Docker
-- CI/CD: Jenkins | GitHub Actions | CircleCI | Travis | Azure Pipelines
-- MongoDB | Redis | MySQL | ELK | Kafka
-- AWS | Azure | Heroku
-
-### Some of My Work Published
+### Some Of Work Out There
 
 - [NPM Packages](https://www.npmjs.com/~vitor.salgado)
 - [Visual Studio Code Extensions](https://marketplace.visualstudio.com/search?term=publisher%3A%22Vitor%20Hugo%20Salgado%22&target=VSCode&category=All%20categories&sortBy=Relevance)
