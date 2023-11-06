@@ -18,8 +18,3 @@ Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [E
 - [NPM Packages](https://www.npmjs.com/~vitor.salgado)
 - [Visual Studio Code Extensions](https://marketplace.visualstudio.com/search?term=publisher%3A%22Vitor%20Hugo%20Salgado%22&target=VSCode&category=All%20categories&sortBy=Relevance)
 - [Chrome Extensions](https://chrome.google.com/webstore/detail/obhoegnhoffpojcnnkknbiilaphdmeea?authuser=0&hl=en-US)
-
----
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=vitorsalgado.vitorsalgado&color=00cf00)
-
