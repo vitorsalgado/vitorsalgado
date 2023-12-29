@@ -19,3 +19,5 @@ Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [E
 - [Visual Studio Code Extensions](https://marketplace.visualstudio.com/search?term=publisher%3A%22Vitor%20Hugo%20Salgado%22&target=VSCode&category=All%20categories&sortBy=Relevance)
 - [Chrome Extensions](https://chrome.google.com/webstore/detail/obhoegnhoffpojcnnkknbiilaphdmeea?authuser=0&hl=en-US)
 - [Java Libs](https://central.sonatype.com/search?q=io.github.vitorsalgado)
+
+[![Vitor Hugo Salgado profile views](https://u8views.com/api/v1/github/profiles/2922948/views/pixel.svg)](https://u8views.com/github/vitorsalgado)
