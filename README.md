@@ -13,7 +13,7 @@ I'm Vitor, a Software Engineer from **São Paulo**, **Brasil** 🇧🇷, current
 Posts: [Medium](https://medium.com/@vtrsalgado)  
 Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [Email](mailto:vsalgadopb@gmail.com)
 
-### Some Of My Work Out There
+### Some of my work out there
 
 - [NPM Packages](https://www.npmjs.com/~vitor.salgado)
 - [Visual Studio Code Extensions](https://marketplace.visualstudio.com/search?term=publisher%3A%22Vitor%20Hugo%20Salgado%22&target=VSCode&category=All%20categories&sortBy=Relevance)
