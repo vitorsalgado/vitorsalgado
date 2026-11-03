@@ -11,6 +11,12 @@ I'm Vitor, a Software Engineer from **São Paulo**, **Brasil** 🇧🇷, current
 
 Posts: [Medium](https://medium.com/@vtrsalgado)  
 Contact: [LinkedIn](https://www.linkedin.com/in/vitorsalgado/?locale=en_US) | [Email](mailto:vsalgadopb@gmail.com)
+Site: [vitor.run](https://vitor.run)
+
+### What I have been working on recently
+
+- [CaffeineJS](https://github.com/caffeinejs/caffeine): Modular, batteries-included TypeScript framework for server-side applications, built on standard ECMAScript decorators. End-to-end type safety. **(WIP)**.
+- [VLatte](https://vlatte.dev/): API Mock Framework for Go.
 
 ### Some of my work out there
 
